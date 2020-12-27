@@ -1,0 +1,10 @@
+{
+	name : "Free Orchestral VST Template",
+	author : "Simone Castellani",
+	category : Template,
+	description : "Modern Orchestral Template using \n\nSpitfire - BBC Orchestra Discovery\nOrchestral Tool - Layers",
+	url : "",
+	tags : "bbc orchestra symphony",
+	show_welcome_screen : false,
+	creation_date : 1609110283672
+}
